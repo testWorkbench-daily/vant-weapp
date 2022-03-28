@@ -1,2 +1,2 @@
 cnpm install
-npm run build:lib
+yarn run build:lib
